@@ -1,5 +1,5 @@
 
-![Imagem de Exemplo](https://drive.google.com/file/d/1iG-fxGZdsL8hEy8mlDqCZ-Eijcc8SQQ2/view?usp=sharing)
+![Imagem de Exemplo](image.png)
 
 ## Pré-requisitos
 
